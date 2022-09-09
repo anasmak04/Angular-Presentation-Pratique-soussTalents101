@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: larger;
+    padding: 2.5em;
+}
+main{
+    text-align: center;
+}
